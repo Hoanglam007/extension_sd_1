@@ -1,2 +1,2 @@
-https://github.com/deforum-art/deforum-stable-diffusion.git
+
 https://github.com/Scholar01/sd-webui-mov2mov.git
