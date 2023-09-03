@@ -6,7 +6,6 @@ https://github.com/adieyal/sd-dynamic-prompts
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/hako-mikan/sd-webui-lora-block-weight
-https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg
 https://github.com/Bing-su/adetailer
 https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
 https://github.com/Scholar01/sd-webui-mov2mov.git
