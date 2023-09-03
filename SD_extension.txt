@@ -16,3 +16,4 @@ https://github.com/huchenlei/sd-webui-openpose-editor
 https://github.com/fkunn1326/openpose-editor
 https://github.com/phamhungd/RoopSD
 https://github.com/hako-mikan/sd-webui-supermerger
+https://github.com/antfu/sd-webui-qrcode-toolkit
