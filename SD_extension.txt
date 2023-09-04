@@ -9,10 +9,10 @@ https://github.com/hako-mikan/sd-webui-lora-block-weight
 https://github.com/Bing-su/adetailer
 https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
 https://github.com/Scholar01/sd-webui-mov2mov.git
-https://github.com/deforum-art/deforum-stable-diffusion.git
 https://github.com/Uminosachi/sd-webui-inpaint-anything
 https://github.com/huchenlei/sd-webui-openpose-editor
 https://github.com/fkunn1326/openpose-editor
 https://github.com/phamhungd/RoopSD
 https://github.com/hako-mikan/sd-webui-supermerger
 https://github.com/antfu/sd-webui-qrcode-toolkit
+https://github.com/deforum-art/sd-webui-deforum.git
