@@ -15,3 +15,4 @@ https://github.com/phamhungd/RoopSD
 https://github.com/hako-mikan/sd-webui-supermerger
 https://github.com/antfu/sd-webui-qrcode-toolkit
 https://github.com/deforum-art/sd-webui-deforum.git
+https://github.com/Vetchems/sd-civitai-browser.git
