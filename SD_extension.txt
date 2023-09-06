@@ -20,3 +20,4 @@ https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git
 https://github.com/zanllp/sd-webui-infinite-image-browsing.git
 https://github.com/yfszzx/stable-diffusion-webui-images-browser.git
+https://github.com/pharmapsychotic/clip-interrogator-ext.git
