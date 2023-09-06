@@ -21,7 +21,6 @@ https://github.com/zanllp/sd-webui-infinite-image-browsing.git
 https://github.com/yfszzx/stable-diffusion-webui-images-browser.git
 https://github.com/pharmapsychotic/clip-interrogator-ext.git
 https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards.git
-https://github.com/NON906/sd-webui-chatgpt.git
 https://github.com/bit9labs/sd-ratio-lock.git
 https://github.com/kabachuha/sd-webui-text2video.git
 https://github.com/alemelis/sd-webui-ar.git
